@@ -1,6 +1,6 @@
 # Brain Age Prediction Challenge Kaggle
 
-[Kaggle competition](https://www.kaggle.com/competitions/bap-imgap-212022)
+[Kaggle Competition](https://www.kaggle.com/competitions/bap-imgap-212022)
 
 **Concepts:** Data exploration and treatment, Random Forests, XGBoost, Data Augmentation and Ensemble
 
