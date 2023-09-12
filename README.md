@@ -11,3 +11,5 @@
 [André Moreira](https://github.com/andremoreira7)
 
 [Bruno Magalhães](https://github.com/BMFMagalhaes)
+
+[Pedro Pereira](https://github.com/Peidolas)
